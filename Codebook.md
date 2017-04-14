@@ -102,12 +102,12 @@ fBodyAccMag-meanFreq() | 72 | Mean MENM FFT Body Accel. | Accel. frequency domai
 fBodyBodyAccJerkMag-mean() | 73| Mean MENM FFT Body  and Jerk | Accel. frequency domain signals
 fBodyBodyAccJerkMag-std() | 74| Std. Dev. MENM FFT Body  and Jerk | Accel. frequency domain signals
 fBodyBodyAccJerkMag-meanFreq() | 75| Mean MENM FFT Body  and Jerk | Accel. frequency domain signals
-fBodyBodyGyroMag-mean() | 76| zzz MENM FFT Body Gyro | Gyro frequency domain signals
-fBodyBodyGyroMag-std() | 77| zzz MENM FFT Body Gyro | Gyro frequency domain signals
+fBodyBodyGyroMag-mean() | 76| Mean MENM FFT Body Gyro | Gyro frequency domain signals
+fBodyBodyGyroMag-std() | 77| Std. Dev. MENM FFT Body Gyro | Gyro frequency domain signals
 fBodyBodyGyroMag-meanFreq() | 78| Mean MENM FFT Body and Jerk Gyro | Gyro frequency domain signals
-fBodyBodyGyroJerkMag-mean() | 79| zzz MENM FFT Body and Jerk Gyro | Gyro frequency domain signals
-fBodyBodyGyroJerkMag-std() | 80| zzz MENM FFT Body and Jerk Gyro | Gyro frequency domain signals
-fBodyBodyGyroJerkMag-meanFreq() | 81| zzz MENM FFT Body and Jerk | Gyro frequency domain signals
+fBodyBodyGyroJerkMag-mean() | 79| Mean MENM FFT Body and Jerk Gyro | Gyro frequency domain signals
+fBodyBodyGyroJerkMag-std() | 80| Std. Dev. MENM FFT Body and Jerk Gyro | Gyro frequency domain signals
+fBodyBodyGyroJerkMag-meanFreq() | 81| Mean MENM FFT Body and Jerk | Gyro frequency domain signals
 
 ## Average Angle Variables
 
